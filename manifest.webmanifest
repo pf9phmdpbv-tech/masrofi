@@ -1,0 +1,13 @@
+{
+  "name": "مصروفي",
+  "short_name": "مصروفي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#EDF1F5",
+  "theme_color": "#15283B",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
